@@ -1,12 +1,56 @@
-# React + Vite
+# 🛍️ Shopping Website - Built with React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **Shop Zone**, a modern e-commerce web application built using **React.js**, **Redux**, and other cutting-edge web technologies. This project was created as part of the Internshala course *"Building Modern Web Applications using React."*
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌟 Features
 
-## Expanding the ESLint configuration
+- 🏠 **Landing Page** with featured products
+- 🛒 **Add to Cart** functionality with live item count
+- 📱 **Responsive Design** – mobile, tablet & desktop ready
+- 📃 **Form Validation** for signup/login
+- 💡 Organized code structure with reusable components
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Tech Stack
+
+| Category        | Tech Used                     |
+|----------------|-------------------------------|
+| Frontend        | React.js, JSX, HTML5, CSS3     |
+| State Management| Redux, Redux Toolkit           |
+| Routing         | React Router DOM               |
+| Styling         | CSS Modules / Tailwind (optional) |
+| Package Manager | npm                           |
+| Version Control | Git + GitHub                   |
+
+---
+
+
+---
+
+## Getting Started
+
+### Install Dependencies
+    ```bash
+   npm install
+
+### Run the Application
+    ```bash
+    npm start
+
+### How to Use
+1 Browse products on the homepage
+
+2 Click on any product for detailed view
+
+3 Add products to cart
+
+4 Navigate to Cart page to view/remove items
+
+5 Fill out forms with proper validation
+
+
+
+
